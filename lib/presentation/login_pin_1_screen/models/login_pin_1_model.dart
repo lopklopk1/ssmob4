@@ -1,0 +1,1 @@
+class LoginPin1Model { }

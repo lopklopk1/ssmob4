@@ -1,0 +1,1 @@
+class ParkPinResetOne1Model { }

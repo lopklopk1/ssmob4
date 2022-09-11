@@ -1,0 +1,1 @@
+class DeviceRegdDetails3ErrorModel { }

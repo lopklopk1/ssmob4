@@ -1,0 +1,1 @@
+class LoginForgotPinOtpEmail1Model { }
